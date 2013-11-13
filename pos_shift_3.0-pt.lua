@@ -161,7 +161,7 @@ return aegisub.register_macro(script_name, script_description, function(subs, se
         1,
         name = "move_x1",
         value = 0.00,
-        hint = "Deslocar prmeira coordenada x de \move"
+        hint = "Deslocar primeira coordenada x de \move"
       },
       {
         "floatedit",
@@ -171,7 +171,7 @@ return aegisub.register_macro(script_name, script_description, function(subs, se
         1,
         name = "move_y1",
         value = 0.00,
-        hint = "Deslocar prmeira coordenada y de \move"
+        hint = "Deslocar primeira coordenada y de \move"
       },
       {
         "floatedit",
